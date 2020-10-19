@@ -1,5 +1,5 @@
 # Data_Products_Week4
-GO HERE (Environments -> Gihubt-Pages) TO SEE THE SLIDES ------------------------------------------------------------->
+GO HERE (Environments -> Gihubt-Pages) TO SEE THE SLIDES ---------------------------------------------------->
 
 Here's the code for my end of course project.
 
