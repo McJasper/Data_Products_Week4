@@ -2,7 +2,7 @@
 
 Here's the code for my end of course project.
 
-GO HERE TO SEE THE PAGE ------------------------------------------------------------->
+GO HERE (Enviromnets -> Git-Pages) TO SEE THE PAGE ------------------------------------------------------------->
 
 It's a pretty simple "game" where the goal is to guess the slope and intercept of the linear regression through the simulated data points.
 
